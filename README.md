@@ -92,4 +92,4 @@ In this example, a new home named "Home1" is added to the inventory with the pro
 
 ##LICENSE
 
-This project is licensed under the [MIT LICENSE].
+This project is licensed under the MIT License.

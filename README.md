@@ -91,4 +91,5 @@ Inventory building process completed.
 In this example, a new home named "Home1" is added to the inventory with the provided details. Then, the inventory is exported to a CSV file named "inventory.csv". Finally, the program is exited.
 
 ##LICENSE
-This project is licensed under the [MIT License] (LICENSE).
+
+This project is licensed under the [MIT LICENSE].
